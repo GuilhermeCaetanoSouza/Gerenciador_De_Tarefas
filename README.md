@@ -13,10 +13,6 @@ Um aplicativo web simples para gerenciar tarefas, com backend em Python (Flask) 
 
 ### 1. Clone o repositório
 
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
-```
-
 ### 2. Configure o ambiente (Windows CMD)
 
 Abra o Prompt de Comando Pelo Visual Studio ja na pasta do projeto:
@@ -25,7 +21,7 @@ Abra o Prompt de Comando Pelo Visual Studio ja na pasta do projeto:
 
 ```cmd
 python -m venv venv
-venv\Scripts\activate
+
 ```
 
 ### 4. Instalar as dependências
